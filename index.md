@@ -10,9 +10,9 @@ My GitHub page is http://github.com/BradleyB30.
 
 * Lab 11
 
-    Lab 11, part-1 was my favorite. I learned how to use constructors to 
-    execute code. I thought this was really interesting as we also looped through 
-    vectors with it. 
+    Lab 11, part-1 was one of my favorites. This is because I learned how to use
+    constructors to execute code. I thought this was really interesting as we also
+    looped through vectors with it. 
 * Lab 10
 
     Lab 10, part 1 was a favorite because I always struggled with the usage
