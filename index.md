@@ -1,27 +1,37 @@
 # Hello World
 
-This is my home page! My name is Bradley Botros and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+This is my home page! My name is Bradley Botros and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. 
+My expected graduation date is June 2027.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/BradleyB30.
+My GitHub page is http://github.com/BradleyB30.github.io.
 
-### CPSC 120
+### CPSC 120/Projects
 
-* Lab 11
+* Bank Management System
 
-    Lab 11, part-1 was one of my favorites. This is because I learned how to use
-    constructors to execute code. I thought this was really interesting as we also
-    looped through vectors with it. 
-* Lab 10
+    Designed a secure bank management system, incorporating robust functionalities 
+    for seamless account creation, management, and modification. The system boasts 
+    user-friendly features, enabling users to effortlessly check account balances, 
+    conduct account searches by number, and access detailed account information. 
+* Lab 5 part 1
 
-    Lab 10, part 1 was a favorite because I always struggled with the usage
-    of 2D vectors. Although after working with this lab, I learned how to
-    effectively approach them. I also liked how we used the counties in the
-    state we live in for the elements in the container.
-* Lab 7
+    I contributed to a C++ program for the Decimal Feet to Feet & Inches lab.
+    The code, divided into main and function files, prompts users for input and 
+    performs decimal truncation for accurate conversions. 
+* Lab 10 Part 2
 
-    Lab 7, part 2 was my favorite because of the usage of real world
-    situations. Combining that with the usage of many if statements 
-    to overall allow the code to run. This relation made this lab
-    one of my favorites.
+    A program dedicated to organizing and retrieving California County population data. 
+    Employing advanced data structure implementation, I utilized 2D vectors to efficiently 
+    store crucial information, including county names and population figures. This use of 
+    data structures enhances the program's ability to manage and access diverse datasets. 
+    Results to retrieval of California County population data, showcasing a thoughtful 
+    integration of data structures for optimal performance.
+
+* Lab 7 Part 2
+
+    The code implements a program for determining street parking allowance based on posted signs. 
+    It includes functions for specific streets, such as CanParkOnAsh and CanParkOnBeech, each considering 
+    factors like day, hour, and minute. The main function validates command line arguments and calls 
+    the appropriate street function to determine if parking is allowed, printing the result.
